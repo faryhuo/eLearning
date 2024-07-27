@@ -1,0 +1,9 @@
+.custom-table .ant-table-wrapper .ant-table-column-sorter-up.active,.custom-table .ant-table-wrapper .ant-table-column-sorter-down.active{
+  color:#000;
+}
+.custom-table .ant-table-wrapper .ant-table-column-sorter{
+    color:#fff;
+}
+.ant-pro-query-filter-row .ant-row.ant-form-item-row .ant-form-item-label{
+  flex: 0 0 120px !important;
+}
